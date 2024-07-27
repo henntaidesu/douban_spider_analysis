@@ -2,7 +2,7 @@
 
 ## 本项目采用python selenium库模拟浏览器操作进行数据获取 
 
-### 本项目使用使用chrome v124 如果是其他chrome版本请下载对应版本驱动
+### 本项目使用使用chrome v127 如果是其他chrome版本请下载对应版本驱动
 
 https://sites.google.com/chromium.org/driver/home
 
