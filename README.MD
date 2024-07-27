@@ -25,6 +25,7 @@ class Index:
 ```
 
 ## 本项目使用品易IP代理池 也可通过配置文件配置项进行设置
+https://http.py.cn/
 
 ```python
 # True为使用代理 False为关闭代理
